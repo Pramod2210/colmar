@@ -116,6 +116,7 @@ padding-bottom: 24px;
 }
 .container3{
     background-color: lightgrey;
+
 }
 .container3 h1{
     padding-bottom: 32px;
@@ -127,6 +128,7 @@ padding-bottom: 24px;
     padding-right: 72px;
     gap: 32px;
     justify-content: space-around;
+    padding-bottom: 72px;
 }
 .first{
     width:400px;
